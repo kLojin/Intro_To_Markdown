@@ -126,3 +126,11 @@ __NOTE__: We can add a balloon tip description to our link by using double quote
 **NOTE**: *__Backticks__ will allow us to show the code block or the paragraph tags in this example.*
 
 `<p> This is a paragraph tag with an inline code block example opening and closing tags </p>`
+
+---
+
+<!--IMAGE rule-->
+
+![This is an image](https://images.pexels.com/photos/17925642/pexels-photo-17925642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Link to a coastal beach image")
+
+---
