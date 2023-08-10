@@ -35,3 +35,11 @@ __This is a sentence that uses strong styling__, which uses __"double underscore
 
 ~~This is a sentence that uses strikethrough styling~~, which uses ~~"double tilde"~~ as its opening and closing symbol.
 
+---
+<!--Horizontal Rule-->
+
+We can add triple hyphens to be able to create a horizontal rule for separating content.
+
+Another way to add __HORIZONTAL RULE__ in our document markdown is by using three underscores
+___
+
