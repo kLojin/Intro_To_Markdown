@@ -61,3 +61,6 @@ This is an example of a *text with an asterisk*. If we don't want it to be itali
 
 **NOTE**: We would want to put the link description inside the square brackets and the link to the resource inside the open and close parenthesis.
 [kLojin pexels collection profile](https://www.pexels.com/@klo-jin-528825507/)
+
+__NOTE__: We can add a balloon tip description to our link by using double quotes after the link to the resource 
+[kLojin pexels collection profile](https://www.pexels.com/@klo-jin-528825507/ "This is kLojin's pexels photo collection")
