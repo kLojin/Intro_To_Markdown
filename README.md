@@ -49,3 +49,8 @@ This is an example of a *text with an asterisk*. If we don't want it to be itali
 
 ---
 
+<!--Blockquote Rule-->
+
+> We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
+
+> *"Action is the Foundational Key to All Success"* --- __Gecko&Fly__
