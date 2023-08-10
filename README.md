@@ -120,3 +120,9 @@ __NOTE__: We can add a balloon tip description to our link by using double quote
     5.2  This is our list item 5 child item 2
 
 ---
+
+<!---Code Block Inline Example Rule-->
+
+**NOTE**: *__Backticks__ will allow us to show the code block or the paragraph tags in this example.*
+
+`<p> This is a paragraph tag with an inline code block example opening and closing tags </p>`
