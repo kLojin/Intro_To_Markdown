@@ -134,3 +134,13 @@ __NOTE__: We can add a balloon tip description to our link by using double quote
 ![This is an image](https://images.pexels.com/photos/17925642/pexels-photo-17925642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Link to a coastal beach image")
 
 ---
+
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+<!--CODE BLOCKS FOR GITHUB DOCUMENTATION-->
+
+```install npm
+npm install
+
+npm start
+```
