@@ -166,9 +166,22 @@ public static int Sum(int num1, int num2)
 }
 ```
 
+---
 
+<!--Table rules-->
 
+| Name | Nickname | Email            |
+|------|----------|------------------|
+|John  |Joe       |john@gmail.com    |
+|Jon   |Garcia    |testJon@gmail.com |
+|Bart  |CoolKid   |testBart@gmail.com|
 
+---
 
+<!--Tasks List-->
 
+* [x] Task 1
+* [ ] Task 1
+* [ ] Task 1
+* [ ] Task 1
 
