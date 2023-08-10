@@ -54,3 +54,10 @@ This is an example of a *text with an asterisk*. If we don't want it to be itali
 > We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"Action is the Foundational Key to All Success"* --- __Gecko&Fly__
+
+---
+
+<!--Link Rule-->
+
+**NOTE**: We would want to put the link description inside the square brackets and the link to the resource inside the open and close parenthesis.
+[kLojin pexels collection profile](https://images.pexels.com/photos/17925642/pexels-photo-17925642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
