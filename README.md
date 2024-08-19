@@ -188,6 +188,7 @@ public static int Sum(int num1, int num2)
 ---
 
 <!--Changeing font colors-->
+
 > $\color{yellow}{\text{yellow}}$
 $\color{orange}{\text{orange}}$
 $\color{red}{\text{red}}$
@@ -218,6 +219,10 @@ $\color{khaki}{\text{khaki}}$
 $\color{lavander}{\text{lavander}}$
 $\color{lime}{\text{lime}}$
 $\color{navy}{\text{navy}}$
+
+```
+$\color{yellow}{\text{yellow}}$
+```
 
 ---
 
