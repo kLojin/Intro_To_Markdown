@@ -185,3 +185,40 @@ public static int Sum(int num1, int num2)
 * [ ] Task 1
 * [ ] Task 1
 
+---
+
+<!--Changeing font colors-->
+> $\color{yellow}{\text{yellow}}$
+$\color{orange}{\text{orange}}$
+$\color{red}{\text{red}}$
+$\color{blue}{\text{blue}}$
+$\color{green}{\text{green}}$
+$\color{violet}{\text{violet}}$
+$\color{gray}{\text{gray}}$
+$\color{pink}{\text{pink}}$
+$\color{indigo}{\text{indigo}}$
+$\color{maroon}{\text{maroon}}$
+$\color{cyan}{\text{cyan}}$
+$\color{teal}{\text{teal}}$
+$\color{magenta}{\text{magenta}}$
+$\color{turquoise}{\text{turquoise}}$
+$\color{olive}{\text{olive}}$
+$\color{crimson}{\text{crimson}}$
+$\color{gold}{\text{gold}}$
+$\color{silver}{\text{silver}}$
+$\color{apricot}{\text{apricot}}$
+$\color{aquamarine}{\text{aquamarine}}$
+$\color{bittersweet}{\text{bittersweet}}$
+$\color{aqua}{\text{aqua}}$
+$\color{beige}{\text{beige}}$
+$\color{coral}{\text{coral}}$
+$\color{fuchsia}{\text{fuchsia}}$
+$\color{goldenrod}{\text{goldenrod}}$
+$\color{khaki}{\text{khaki}}$
+$\color{lavander}{\text{lavander}}$
+$\color{lime}{\text{lime}}$
+$\color{navy}{\text{navy}}$
+
+---
+
+:octocat: $\color{cyan}{\text{Emoji link}}$ _https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#table-of-contents_
